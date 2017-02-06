@@ -1,0 +1,2 @@
+# hoshino40
+hexo
